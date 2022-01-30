@@ -1,0 +1,22 @@
+Configurações do Mudae
+(para funcionar corretamente com o script)
+
+-  $togglereact 2
+-  $claimreact add [emoji] -> tem que ser só 1
+-  $togglelikerank
+-  $togglelikerolls
+-  $toggleclaimrank
+-  $togglekakerarolls
+-  $toggleclaimrolls
+
+------------
+Basicamente, no roll tem que ter:
+    -> Série do Personagem
+    -> Likes
+    -> Quantia de Kakera
+------------
+
+
+Caso tenha algum problema:
+    -> Me contate no discord
+        -> Lucasbc#0047

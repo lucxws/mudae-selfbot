@@ -7,9 +7,7 @@
 ## Requerimentos:
 - Python instalado, de prefêrencia: 3.8.0
 - discord.py versão obrigatoriamente: 1.4.1 
-     > Já que nas versões atuais, os selfbots foram descartados já que são contra T.O.S
- - Sistema operacional com arquitetura de 64 bits.
- 
+     > Já que nas versões atuais, os selfbots foram descartados já que são contra T.O.S 
  
  ### Tudo está explicado nos arquivos, leia todos arquivos antes de utilizar.
  - Configurações do Mudae deve seguir as mesmas no arquivo LEIA.txt

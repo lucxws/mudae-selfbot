@@ -17,10 +17,10 @@
  - Selfbots são contra o termos de serviço do discord.
  ### O programa foi feito por motivos educacionais, e compartilhar conhecimento.
  
-### Em caso de requisição de remoção por parte dos envolvidos:
+- Em caso de requisição de remoção por parte dos envolvidos:
 > Nome & Tag: Lucasbc#0047
 > ID: 752311109226201101
 
 ## Dúvidas? Mande na aba issues do github.
-## Este projeto ainda está sendo feito, porém já conta com:
-> Auto claimer de personagens específicos, kakeras com filtragem, seriados ou claimer de kakeras de personagens já casados.
+- Este projeto ainda está sendo feito, porém já conta com:
+-  Auto claimer de personagens específicos, kakeras com filtragem, seriados ou claimer de kakeras de personagens já casados.

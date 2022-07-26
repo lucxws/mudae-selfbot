@@ -3,7 +3,6 @@
 > Um selfbot feito em Python com ajuda do discord.py para automatizar ações dentro do bot Mudae.
 > Mudae: https://top.gg/bot/432610292342587392/vote
 
-
 ## Requerimentos:
 - Python instalado, de prefêrencia: 3.8.0
 - discord.py versão obrigatoriamente: 1.4.1 
@@ -15,10 +14,7 @@
  - Selfbots são contra o termos de serviço do discord.
  ### O programa foi feito por motivos educacionais, e compartilhar conhecimento.
  
-- Em caso de requisição de remoção por parte dos envolvidos:
-> Nome & Tag: Lucasbc#0047
-> ID: 752311109226201101
-
+ 
 ## Dúvidas? Mande na aba issues do github.
 - Este projeto ainda está sendo feito, porém já conta com:
 -  Auto claimer de personagens específicos, kakeras com filtragem, seriados ou claimer de kakeras de personagens já casados.
